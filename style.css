@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+.b2{
+    background-color: red;
+    color:white;
+    padding:10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    float: right;
+    margin-right: 350px;
+    margin-top: 55px;
+    font-size: 16px;  
+}
+
+.banner{
+    background-image: url(images/n.b.png) ;
+   height: 75vh;
+}
+body{
+    background-color: rgb(68, 68, 68);
+    color: white;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 290px;
+    font-weight: bolder;
+    margin-left: 450px;
+}
+p{
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    padding-left: 750px;
+    word-spacing: 2px;
+   padding-bottom:30px;
+}
+.p2{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.e1{
+    position: relative;
+padding: 20px;
+padding-right: 210px;
+background-color: rgb(82, 82, 82);
+font-size: 20px;
+padding-right: 80px;
+}
+.b1{
+    padding: 15px;
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+   
+}
+.banner2{
+    background-color: rgb(0, 0, 0);
+    height: 45vh;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.ha{
+  
+padding: 30px;
+font-size: 50px;
+font-weight: bolder;
+padding-bottom: 40px;
+
+}
+.nav-bar{
+    background-image: url(images/bg2.jpg);
+    padding-left: 200px;
+    height: 1px;
+}
+nav{
+    height: 10px;
+    padding-bottom: 10px;
+}
+h2{
+   padding-top: 100px;
+   padding-left: 10px; 
+   font-size: 50px;
+
+}
+.para{
+    padding-left: 10px;
+    padding-top: 40px;
+    font-size:25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tv{
+    margin-top: 10px;
+    padding-bottom:20px;
+    padding-bottom:10px;
+    padding-left: 100px;
+    margin-left:60px;
+    margin-top: 10px;
+    
+}
+h3{
+    padding-top: 100px;
+   padding-left: 10px; 
+   font-size: 50px;
+   font-weight: bolder;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.para1{
+    padding-left: 10px;
+    padding-top: 40px;
+    font-size:25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.g{
+    display: flex;
+    margin-right: 40px;
+}
+.banner7{
+    background-color: rgb(0, 0, 0);
+    height: 45vh;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
